@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/vkapp/static/js/runtime~main.f80bdb26.js"
   },
   {
-    "revision": "2eb7377a0a4726a10e0c",
-    "url": "/vkapp/static/js/main.2eb7377a.chunk.js"
+    "revision": "c683b3ca0d78d4ef7fde",
+    "url": "/vkapp/static/js/main.c683b3ca.chunk.js"
   },
   {
-    "revision": "3a3e31e21cd4af23e776",
-    "url": "/vkapp/static/js/2.3a3e31e2.chunk.js"
+    "revision": "70abc9cc735907864860",
+    "url": "/vkapp/static/js/2.70abc9cc.chunk.js"
   },
   {
-    "revision": "2eb7377a0a4726a10e0c",
+    "revision": "c683b3ca0d78d4ef7fde",
     "url": "/vkapp/static/css/main.d158c42b.chunk.css"
   },
   {
-    "revision": "3a3e31e21cd4af23e776",
+    "revision": "70abc9cc735907864860",
     "url": "/vkapp/static/css/2.47a1ede8.chunk.css"
   },
   {
-    "revision": "6edcddd589c26a42e6b6a86df6f9345d",
+    "revision": "ce4de4f66104791feb6bd1c98ccd88e7",
     "url": "/vkapp/index.html"
   }
 ];
